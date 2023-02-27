@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-zenii",
   "private": true,
-  "description": "A One-page Gatsby starter built with Tailwindcss and  Postcss",
+  "description": "A One-page Gatsby starter built with Tailwindcss and Postcss",
   "version": "1.0.0",
   "license": "0BSD",
   "scripts": {
